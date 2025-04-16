@@ -30,8 +30,8 @@ This Inventory Management System is designed and developed as part of my ITI Ful
 https://web-production-f2a6e.up.railway.app/
 
 use these credentials:
-- **Username:** hassan
-- **password:** Uyn6ZqvkiIO2
+- **Username:** admin
+- **password:** yKAjRnzky3Q5bW
 - **Role:** Manager
 
 Note: In the live demo, we have removed the ability for the manager to add or edit products, similar to the employee role. This was done to prevent any inappropriate photos from being added as products.
@@ -149,4 +149,4 @@ Contributions are welcome! Please fork this repository and submit pull requests.
 
 For any questions or inquiries, feel free to contact me at:
 - Email: [khaledgafaar211@gmail.com)
-- LinkedIn: [Mustafa Said Hassan](https://www.linkedin.com/in/mustafaahassan/)
+- LinkedIn: [linkedin.com/in/khaledgaafar)
