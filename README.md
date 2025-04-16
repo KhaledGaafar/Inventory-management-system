@@ -40,8 +40,6 @@ Note: In the live demo, we have removed the ability for the manager to add or ed
 ## Database Design
 ![image](https://github.com/user-attachments/assets/1ce6475e-773a-4cc9-b7fe-27611d77dc00)
 
-📌 Check the Database Design:
-https://dbdiagram.io/d/ims_db_diagram-67d048da75d75cc844acb703
 
 ## Setup Instructions
 
@@ -149,4 +147,4 @@ Contributions are welcome! Please fork this repository and submit pull requests.
 
 For any questions or inquiries, feel free to contact me at:
 - Email: [khaledgafaar211@gmail.com)
-- LinkedIn: [linkedin.com/in/khaledgaafar)
+- LinkedIn: [https://www.linkedin.com/in/khaledgaafar)
