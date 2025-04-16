@@ -2,7 +2,7 @@
 
 ## Description
 
-This Inventory Management System is designed and developed as part of my ITI Full-Stack Python Training Journey, to streamline warehouse operations, track inventory and products, manage shipments and orders, and provide real-time analytics. This full-stack application is built with Python (Django) for the backend and HTML, CSS, JavaScript, and Bootstrap for a responsive and intuitive user interface. The system handles everything from user authentication and role management to order processing and real-time inventory tracking.
+This Inventory Management System is designed and developed to streamline warehouse operations, track inventory and products, manage shipments and orders, and provide real-time analytics. This full-stack application is built with Python (Django) for the backend and HTML, CSS, JavaScript, and Bootstrap for a responsive and intuitive user interface. The system handles everything from user authentication and role management to order processing and real-time inventory tracking.
 ![image](https://github.com/user-attachments/assets/bd7099c9-3749-4a8f-bf85-cee8ef005ca1)
 
 ## Features
